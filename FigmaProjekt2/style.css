@@ -1,0 +1,287 @@
+.main {
+  top: -10%;
+  overflow-x: hidden;
+}
+.explorer {
+  width: 100%;
+  position: absolute;
+  top: 170%;
+
+  background-color: black;
+}
+body {
+  background-color: #0b1d26;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.content {
+  width: 100%;
+  margin-left: 25vw;
+  margin-top: 10vw;
+}
+.socials {
+  margin-left: 3vw;
+  margin-top: 15%;
+}
+.header {
+  margin-top: 2%;
+  margin-left: 2%;
+}
+#numbers {
+  font-size: 10vw;
+
+  margin-left: 15vw;
+  opacity: 0.3;
+  position: absolute;
+  z-index: 15;
+  color: white;
+}
+
+#start {
+  font-size: 1vw;
+
+  margin-left: 24vw;
+  margin-top: 5vw;
+  position: absolute;
+  z-index: 15;
+  color: #fbd784;
+}
+
+#line1 {
+  width: 3.5vw;
+  margin-left: 20vw;
+  margin-top: 5.45vw;
+  position: absolute;
+  z-index: 18;
+}
+#hiker {
+  font-size: 3.5vw;
+
+  margin-left: 19.7vw;
+  margin-top: 7vw;
+  position: absolute;
+  z-index: 15;
+  color: white;
+}
+
+#text1 {
+  font-size: 1vw;
+
+  margin-left: 19.7vw;
+  margin-top: 16vw;
+  position: absolute;
+  z-index: 15;
+  color: white;
+}
+
+#read {
+  font-size: 1vw;
+
+  margin-left: 19.7vw;
+  margin-top: 24vw;
+  position: absolute;
+  z-index: 15;
+  color: #fbd784;
+}
+.trail {
+  width: 100%;
+  position: absolute;
+  top: 250%;
+
+  background-color: #0b1d26;
+}
+
+#numbers2 {
+  font-size: 10vw;
+
+  margin-left: 45vw;
+  opacity: 0.3;
+  position: absolute;
+  z-index: 35;
+  color: white;
+}
+
+#hikingess {
+  font-size: 1vw;
+
+  margin-left: 54vw;
+  margin-top: 5vw;
+  position: absolute;
+  z-index: 15;
+  color: #fbd784;
+}
+#line2 {
+  width: 3.5vw;
+  margin-left: 50vw;
+  margin-top: 5.45vw;
+  position: absolute;
+  z-index: 18;
+}
+
+#packer {
+  font-size: 3.5vw;
+
+  margin-left: 50vw;
+  margin-top: 7vw;
+  position: absolute;
+  z-index: 15;
+  color: white;
+}
+.textdiv {
+  width: 80%;
+  height: 50vw;
+  position: absolute;
+  overflow-wrap: break-word;
+}
+#text2 {
+  font-size: 1vw;
+
+  margin-left: 50vw;
+  margin-top: 16vw;
+  position: absolute;
+  z-index: 15;
+  color: white;
+}
+#read2 {
+  font-size: 1vw;
+
+  margin-left: 50vw;
+  margin-top: 24vw;
+  position: absolute;
+  z-index: 15;
+  color: #fbd784;
+}
+
+.final {
+  width: 100%;
+  position: absolute;
+  top: 330%;
+
+  background-color: #0b1d26;
+}
+
+.footer {
+  width: 100%;
+  height: 32vw;
+  position: absolute;
+  top: 380%;
+  background-color: #0b1d26;
+}
+#mntn {
+  color: white;
+  font-size: 2vw;
+  top: 15vw;
+  margin-left: 15vw;
+  position: absolute;
+}
+#getout {
+  color: white;
+  font-size: 1vw;
+  top: 19vw;
+  margin-left: 15vw;
+  position: absolute;
+}
+#cr {
+  color: grey;
+  font-size: 1vw;
+  top: 27vw;
+  margin-left: 15vw;
+  position: absolute;
+}
+#more1 {
+  font-size: 1.1vw;
+  font-weight: bold;
+  margin-left: 59%;
+  margin-top: 15vw;
+  position: absolute;
+  z-index: 15;
+  color: #fbd784;
+}
+#more2 {
+  font-size: 1.1vw;
+  font-weight: bold;
+  margin-left: 71.5%;
+  margin-top: 15vw;
+  position: absolute;
+  z-index: 15;
+  color: #fbd784;
+}
+
+#headerbl {
+  z-index: 31;
+  color: white;
+  font-size: 2vw;
+  top: 15vw;
+  margin-left: 52vw;
+  position: absolute;
+  font-weight: bold;
+}
+#headerab {
+  z-index: 31;
+  color: white;
+  font-size: 2vw;
+  top: 15vw;
+  margin-left: 47vw;
+  position: absolute;
+  font-weight: bold;
+}
+#headereq {
+  z-index: 31;
+  color: white;
+  font-size: 1.5vw;
+  top: 15vw;
+  margin-left: 25vw;
+  position: absolute;
+  font-weight: bold;
+}
+
+#line4 {
+  width: 1vw;
+  left: 10vw;
+  z-index: 31;
+}
+#maintext {
+  position: absolute;
+  font-size: 10vw;
+  top: 20vw;
+  left: 15vw;
+  text-shadow: 1px 1px black;
+}
+#text3 {
+  font-size: 1vw;
+
+  margin-left: 19.7vw;
+  margin-top: 16vw;
+  position: absolute;
+  z-index: 15;
+  color: white;
+}
+#numbers3 {
+  font-size: 10vw;
+
+  margin-left: 15vw;
+  opacity: 0.3;
+  position: absolute;
+  z-index: 15;
+  color: white;
+}
+#start3 {
+  font-size: 1vw;
+
+  margin-left: 24vw;
+  margin-top: 5vw;
+  position: absolute;
+  z-index: 15;
+  color: #fbd784;
+}
+#hiker3 {
+  font-size: 3.5vw;
+
+  margin-left: 19.7vw;
+  margin-top: 7vw;
+  position: absolute;
+  z-index: 15;
+  color: white;
+}
